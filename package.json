@@ -1,0 +1,22 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "为自己创建一个开发手册，用于构建自己的知识体系",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echoescn/handbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echoescn/handbook/issues"
+  },
+  "homepage": "https://github.com/echoescn/handbook#readme",
+  "dependencies": {
+    "simple-git": "^1.92.0"
+  }
+}
